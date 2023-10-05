@@ -1,0 +1,26 @@
+.mainLogo-team {
+  height: auto;
+  width: 200px;
+  margin-top: 30px;
+}
+
+.score-container {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.score-input {
+  height: 50px;
+  width: 50px;
+  font-size: 24px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgb(200, 200, 200);
+}
+
+.score-btn {
+  height: 50px;
+  margin-top: -10px;
+}
