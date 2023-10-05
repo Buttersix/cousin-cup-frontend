@@ -6,7 +6,6 @@ const Home = () => {
   return (
     <div className='image-container'>
       <img src={logo} alt="Farrell Cousin Cup" className="mainLogo" />
-      Hello
     </div>
   )
 }
